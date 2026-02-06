@@ -1,2 +1,3 @@
-THIS IS MY FIRST PROJECT 
-AUTHOR: ANUSHA# sql-basic-project
+THIS IS MY FIRST PROJECT .
+<br>
+AUTHOR: ANUSHA  # sql-basic-project
