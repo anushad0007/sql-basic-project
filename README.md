@@ -1,0 +1,2 @@
+THIS IS MY FIRST PROJECT 
+AUTHOR: ANUSHA# sql-basic-project
